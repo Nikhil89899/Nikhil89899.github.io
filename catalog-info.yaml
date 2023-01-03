@@ -4,6 +4,7 @@ metadata:
   name: Nikhil89899.github.io
   annotations:
     github.com/project-slug: Nikhil89899/Nikhil89899.github.io
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: other
   lifecycle: unknown
