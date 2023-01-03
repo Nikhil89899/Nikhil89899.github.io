@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Nikhil89899.github.io
+  annotations:
+    github.com/project-slug: Nikhil89899/Nikhil89899.github.io
+spec:
+  type: other
+  lifecycle: unknown
+  owner: nikhil@example.com
